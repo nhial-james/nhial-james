@@ -29,7 +29,75 @@ Let’s build something exceptional together. 🚀
 ---
 
 ### 🕹️ Featured Creations
-<div align="left"> <details> <summary>🌌 Personal Portfolio Website </summary> <p>A vibrant portfolio site built with <b>React</b> and <b>Tailwind CSS</b>, featuring retro animations and a vaporwave aesthetic. <a href="https://github.com/nhial-james/neon-portfolio">Code</a> | <a href="https://your-demo-link.com">Demo</a></p> </details> <details> <summary>🏋️‍♂️ Daystar University Gym Management System</summary> <p>A Windows Forms app built in <b>Visual Basic</b> to manage memberships, track attendance, and generate gym reports for Daystar University. <a href="https://github.com/nhial-james/daystar-gym-system">Code</a></p> </details> <details> <summary>🧠 DITA Website Design</summary> <p>Modern and elegant website UI/UX for Daystar Information Technology Association, designed with <b>Figma</b> and <b>#00AEEE</b> theme. Includes sections like Events, Projects, and Teams. <a href="https://github.com/nhial-james/dita-website-design">Design</a></p> </details> <details> <summary>🛒 Mitumba Mart – E-Commerce Platform</summary> <p>A dynamic online thrift store built with <b>HTML, CSS, JavaScript, MySQL</b>, enabling users to browse, purchase, and manage second-hand items. <a href="https://github.com/nhial-james/mitumba-mart">Code</a></p> </details> <details> <summary>🎓 DUPA MALL</summary> <p>A student marketplace platform for Daystar University where students can buy/sell items or services. Designed with <b>UI/UX best practices</b> using <b>#02542D</b> branding. <a href="https://github.com/nhial-james/dupa-mall">Design</a></p> </details> <details> <summary>⛽ FuelCalc</summary> <p>A sleek app prototype designed in <b>Flutter</b> to estimate trip fuel costs using distance, fuel consumption, and real-time fuel price inputs. <a href="https://github.com/nhial-james/fuelcalc">Code</a></p> </details> <details> <summary>🏢 Cray Group Systems Designs</summary> <p>A business website for Cray Group showcasing IT services, software development, and consulting. Built with <b>modern UI/UX principles</b> for corporate appeal. <a href="https://github.com/nhial-james/cray-group-site">Design</a></p> </details> <details> <summary>🍃 Ecoglide App</summary> <p>A mobile-first app concept that promotes eco-friendly transport by tracking emissions and suggesting green travel alternatives. Designed in <b>Flutter</b>. <a href="https://github.com/nhial-james/ecoglide">Prototype</a></p> </details> </div>
+
+<div align="left">
+
+<details>
+<summary>🌌 Personal Portfolio Website</summary>
+<p>
+A vibrant portfolio site built with <b>React</b> and <b>Tailwind CSS</b>, featuring retro animations and a vaporwave aesthetic.  
+<a href="https://github.com/nhial-james/Personal-Portfolio-Website">Code</a> | <a href="https://www.nhialjames.me">Demo</a>
+</p>
+</details>
+
+<details>
+<summary>🏋️‍♂️ Daystar University Gym Management System</summary>
+<p>
+A Windows Forms app built in <b>Visual Basic</b> to manage memberships, track attendance, and generate gym reports for Daystar University.  
+<a href="https://github.com/nhial-james/Daystar-gym-management-system">Code</a>
+</p>
+</details>
+
+<details>
+<summary>🧠 DITA Website Design</summary>
+<p>
+Modern and elegant website UI/UX for Daystar Information Technology Association, designed with <b>Figma</b> and <b>#00AEEE</b> theme. Includes sections like Events, Projects, and Teams.  
+<a href="https://github.com/nhial-james/Dita-Website-Design">Design</a>
+</p>
+</details>
+
+<details>
+<summary>🛒 Mitumba Mart – E-Commerce Platform</summary>
+<p>
+A dynamic online thrift store built with <b>HTML, CSS, JavaScript, MySQL</b>, enabling users to browse, purchase, and manage second-hand items.  
+<a href="https://github.com/nhial-james/Mitumba-Mart-E-commerce-website">Code</a>
+</p>
+</details>
+
+<details>
+<summary>🎓 DUPA MALL</summary>
+<p>
+A student marketplace platform for Daystar University where students can buy/sell items or services. Designed with <b>UI/UX best practices</b> using <b>#02542D</b> branding.  
+<a href="https://github.com/nhial-james/dupa-mall">Design</a>
+</p>
+</details>
+
+<details>
+<summary>⛽ FuelCalc</summary>
+<p>
+A sleek app prototype designed in <b>Flutter</b> to estimate trip fuel costs using distance, fuel consumption, and real-time fuel price inputs.  
+<a href="https://github.com/nhial-james/FuelCalc-App">Code</a>
+</p>
+</details>
+
+<details>
+<summary>🏢 Cray Group Systems Designs</summary>
+<p>
+A business website for Cray Group showcasing IT services, software development, and consulting. Built with <b>modern UI/UX principles</b> for corporate appeal.  
+<a href="https://github.com/CRAYGROUP">Design</a>
+</p>
+</details>
+
+<details>
+<summary>🚗 RideCare App</summary>
+<p>
+A smart ride companion app offering safe and trackable rides, especially for students. Built with <b>Flutter</b> and <b>location services</b>.  
+<a href="https://github.com/nhial-james/ridecare-app">Prototype</a>
+</p>
+</details>
+
+</div>
+
 
 ---
 
