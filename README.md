@@ -5,7 +5,6 @@
 
 ---
 
-### 🧠 Welcome to Nhial’s Playground 
 I'm a **professional UI/UX Designer** and **Junior Software Developer** passionate about crafting intuitive, user-centric digital experiences.
 
 I work with **React**, **Flutter**, and **TypeScript** to build sleek, high-performance web and mobile applications. Currently, I’m expanding my skills in cross-platform mobile development using Flutter and React Native.
